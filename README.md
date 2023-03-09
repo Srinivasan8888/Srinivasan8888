@@ -12,10 +12,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:srinivasanabarnathlingam08@gmail.com)](mailto:srinivasanabarnathlingam08@gmail.com)
 ---
 ## Hi there :wave:,           
-I'm Srinivasan, IOT Trainee at XYMA Analytics. I am an Android developer, full stack noobie, Cyber security, Video editor, IOT, and many more. well, I work at a startup I do multiple tasks from different field's this proverb suites me well "Jack of all trades, master of none".
+I'm Srinivasan, SDE I at XYMA Analytics. I am an Android developer, full stack noobie, Cyber security, Video editor, IOT, and many more. well, I work at a startup I do multiple tasks from different field's this proverb suites me well "Jack of all trades, master of none".
 
 ## :monocle_face:	 About
-- :sunglasses: IOT Trainee at [XYMA Analytics](https://https://xyma.in/).
+- :sunglasses: SDE I at [XYMA Analytics](https://https://xyma.in/).
 - :surfing_man: I have an interest in cybersecurity so, I'm still trying to work towards the goal also.
 - :cowboy_hat_face: I used to write some tech blogs and I do some SEO, Had some niche of my own and it died eventually. you can check out some of our work here [MeshPie](https://meshpie.com/author/srinivasan/)
 - :seedling: I was contributing to Google Developers Group Madurai.
