@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:srinivasanabarnathlingam08@gmail.com)](mailto:srinivasanabarnathlingam08@gmail.com)
 ---
 ## Hi there :wave:,           
-I'm Srinivasan, IOT Engineer at XYMA Analytics. I am an Android developer, full stack noobie, Cyber security, Video editor, IOT, and many more. well, I work at a startup I do multiple tasks from different field's this proverb suites me well "Jack of all trades, master of none".
+I'm Srinivasan, IOT Engineer at XYMA Analytics. I am an Android developer, full stack web developer, Cyber security, IOT, and many more. well, I work at a startup I do multiple tasks from different field's this proverb suites me well "Jack of all trades, master of none".
 
 ## :monocle_face:	 About
 - :sunglasses: IOT Engineer at [XYMA Analytics](https://https://xyma.in/).
@@ -46,4 +46,4 @@ I'm Srinivasan, IOT Engineer at XYMA Analytics. I am an Android developer, full 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasan8888&theme=dark" alt="srinivasan8888" /></p>
 
-**srinivasan** ✨ _special_ ✨ repository because its `ABOUTME.md` (this file) appears on your GitHub profile 😊❤.
+**Srinivasan** ✨ _special_ ✨ repository because its `ABOUTME.md` (this file) appears on your GitHub profile 😊❤.
