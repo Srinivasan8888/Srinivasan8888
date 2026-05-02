@@ -1,49 +1,103 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://srinivasanr.me)
-# Srinivasan R
+# Srinivasan R — AI Engineer
 
-<img align="right" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width='272'/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdkOHZtejBhZXo3NTRtd3UwNW56dGN4cjFzN2MzM2xhY21pMGR6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="272"/>
 
-[![Twitter: srinivasan](https://img.shields.io/twitter/follow/srinivasan?style=social)](https://twitter.com/rsrinivasan_)
-![GitHub followers](https://img.shields.io/github/followers/Srinivasan8888?label=Follow&style=social)
-[![Linkedin: rohit-ghumare](https://img.shields.io/badge/-srinivasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-ghumare/)](https://www.linkedin.com/in/srinivasanr8/) 
-[![Medium Badge](https://img.shields.io/badge/-@srinivasanabarnathlingam08-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@srinivasanabarnathlingam08/)](https://medium.com/@srinivasanabarnathlingam08/) 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.srinivasanr.me)](https://www.srinivasanr.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=Srinivasan8888.Srinivasan8888)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:srinivasanabarnathlingam08@gmail.com)](mailto:srinivasanabarnathlingam08@gmail.com)
----
-## Hi there :wave:,           
-I'm Srinivasan, Software Engineer at XYMA Analytics. I am an Android developer, full stack web developer, Cyber security, IOT, and many more. well, I work at a startup I do multiple tasks from different field's this proverb suites me well "Jack of all trades, master of none".
+[![LinkedIn](https://img.shields.io/badge/-srinivasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srinivasanr8/)](https://www.linkedin.com/in/srinivasanr8/)
+[![Twitter](https://img.shields.io/twitter/follow/rsrinivasan_?style=social)](https://twitter.com/rsrinivasan_)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@srinivasanabarnathlingam08/)](https://medium.com/@srinivasanabarnathlingam08/)
+[![Website](https://img.shields.io/badge/Portfolio-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.srinivasanr.me)](https://www.srinivasanr.me/)
+[![Gmail](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srinivasanabarnathlingam08@gmail.com)](mailto:srinivasanabarnathlingam08@gmail.com)
 
-## :monocle_face:	 About
-- :sunglasses: Software Engineer at [XYMA Analytics](https://https://xyma.in/).
-- :surfing_man: I have an interest in cybersecurity so, I'm still trying to work towards the goal also.
-- :cowboy_hat_face: I used to write some tech blogs and I do some SEO, Had some niche of my own and it died eventually. you can check out some of our work here [MeshPie](https://meshpie.com/author/srinivasan/)
-- :seedling: I was contributing to Google Developers Group Madurai.
-- :stuck_out_tongue_winking_eye: If you play valorant don't forget to add me to your friend list (DarkNebula #1337).
-- :v: And Many more...
----
-# Hello World!! 🌎
-- 💬 Ask me about anything and everything! 
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/+917708109230)
-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Fun fact: I love having new connections, Helping students and professionals for their extravalent doubts, Provides free resources and opportunities to Students and working professionals in need, and also I love to Travel and eating Food! 
-<!-- - 💬 Ping Me about #Cloud, #DevOps, #MLOps, #Deep Learning, #Machine Learning, #Data Science, #Computer Vision, #Profile Building #CampusOps and anything you like... I'll try my best to help you.😊❤ -->
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivasan8888&label=Profile%20views&color=0e75b6&style=flat" alt="srinivasan8888" /> </p>
+## 👋 Hey, I'm Srini
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><div></div><img src="https://github-profile-trophy.vercel.app/?username=srinivasan8888" alt="srinivasan8888" /></a> </p>
+I'm an **AI Engineer** focused on **Agentic AI systems** and **Generative AI** building intelligent pipelines that actually reason, retrieve, and act. My background in full-stack MERN development gives me an end-to-end perspective: from LLM orchestration down to the API layer and UI.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Currently based in **Chennai, India** 🇮🇳 — building production-grade GenAI applications and contributing to AI-first products.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<h2>Github Stats :octopus::cat:</h2>
+## 🧠 What I Build
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivasan8888&show_icons=true&locale=en&layout=compact&theme=dark" alt="srinivasan8888" /></p>
+```
+LLM Orchestration  →  Agentic Pipelines  →  RAG Systems  →  Full-Stack AI Apps
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinivasan8888&show_icons=true&locale=en&count_private=true&theme=dark" alt="srinivasan8888" /></p>
+- **Agentic AI**: Multi-stage reasoning agents with LangGraph, confidence-gated retry logic, and stateful workflows
+- **RAG Pipelines**: Hybrid embedding search (dense + sparse), Reciprocal Rank Fusion, vector stores (Qdrant)
+- **LLM Integration**: Prompt engineering, streaming responses, hallucination mitigation, tool use
+- **Full-Stack AI**: FastAPI backends + React frontends wired to GenAI pipelines
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasan8888&theme=dark" alt="srinivasan8888" /></p>
+---
 
-**Srinivasan** ✨ _special_ ✨ repository because its `ABOUTME.md` (this file) appears on your GitHub profile 😊❤.
+## 🚀 Highlight Project — Banking Dispute Resolution Agent
+
+> A 7-stage agentic RAG pipeline for intelligent banking dispute resolution
+
+- **Orchestration**: LangGraph state machine with 7 specialized reasoning stages
+- **Retrieval**: Hybrid embeddings (dense + sparse) with Reciprocal Rank Fusion for precision ranking
+- **Vector Store**: Qdrant for sub-millisecond semantic search
+- **Confidence Gating**: Automatic retry logic triggered on low-confidence outputs
+- **Backend**: FastAPI ingestion pipeline + MongoDB audit logging
+- **Stack**: Python · LangGraph · Qdrant · FastAPI · MongoDB
+
+---
+
+## 🛠️ Tech Stack
+
+### AI / GenAI
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### Backend & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## 📌 What I'm Working On
+
+- 🤖 Deepening expertise in **multi-agent systems** and agent memory architectures
+- 🔍 Exploring **graph RAG** and advanced retrieval strategies
+- 🛍️ Building **Fundable?** an open platform for anonymous idea validation powered by AI synthesis
+- 📝 Writing about GenAI engineering and agentic patterns on [Medium](https://medium.com/@srinivasanabarnathlingam08/)
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivasan8888&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="srinivasan8888" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinivasan8888&show_icons=true&locale=en&count_private=true&theme=dark&hide_border=true" alt="srinivasan8888" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasan8888&theme=dark&hide_border=true" alt="srinivasan8888" /></p>
+
+---
+
+## 💬 Let's Connect
+
+If you're working on something in **GenAI, agentic systems, or AI-powered products** — I'd love to talk.
+
+📬 [srinivasanabarnathlingam08@gmail.com](mailto:srinivasanabarnathlingam08@gmail.com)  
+💼 [linkedin.com/in/srinivasanr8](https://www.linkedin.com/in/srinivasanr8/)  
+
+---
+
+*Building AI systems that reason, retrieve, and act.* 🤖
