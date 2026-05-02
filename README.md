@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-srinivasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srinivasanr8/)](https://www.linkedin.com/in/srinivasanr8/)
 [![Twitter](https://img.shields.io/twitter/follow/rsrinivasan_?style=social)](https://twitter.com/rsrinivasan_)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@srinivasanabarnathlingam08/)](https://medium.com/@srinivasanabarnathlingam08/)
-[![Website](https://img.shields.io/badge/Portfolio-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.srinivasanr.me)](https://www.srinivasanr.me/)
+[![Website](https://img.shields.io/badge/Portfolio-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.srinivasanr.me)](https://srinivasanr.netlify.app/)
 [![Gmail](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srinivasanabarnathlingam08@gmail.com)](mailto:srinivasanabarnathlingam08@gmail.com)
 
 ---
