@@ -44,6 +44,28 @@ LLM Orchestration  →  Agentic Pipelines  →  RAG Systems  →  Full-Stack AI 
 
 ---
 
+## 🌱 Open Source
+
+Contributions to ML training and serving infrastructure.
+
+**[Soup](https://github.com/MakazhanAlpamys/Soup)** — LLM fine-tuning & serving framework
+
+- [#576](https://github.com/MakazhanAlpamys/Soup/pull/576) — added `lisa_train_embeddings` to freeze the always-on group in LISA fine-tuning. Maintainer-benchmarked at **−64% peak VRAM** and **−70% optimizer state** on an M4 Max.
+- [#581](https://github.com/MakazhanAlpamys/Soup/pull/581) — the SGLang backend hand-rolled prompt formatting and hardcoded `finish_reason`, so every response claimed it stopped naturally even when truncated at `max_tokens`. Now applies the model's own chat template and reports the real stop reason.
+- [#574](https://github.com/MakazhanAlpamys/Soup/pull/574) — corrected a misleading MCP execution-tool refusal message.
+- [#582](https://github.com/MakazhanAlpamys/Soup/pull/582) — added the SmolLM3-3B SFT recipe.
+
+**[BentoML](https://github.com/bentoml/BentoML)** — model serving framework
+
+- [#5708](https://github.com/bentoml/BentoML/pull/5708) — raise a clear error for empty `Params` instead of leaking `StopIteration`.
+- [#5709](https://github.com/bentoml/BentoML/pull/5709) — return a JSON object, not an array, for 4xx client error responses.
+
+**[evo](https://github.com/evo-hq/evo)** — experiment-tracking CLI
+
+- Workspace asset registry with pluggable S3/HuggingFace storage backends, `evo budget` spend tracking, `evo recover` crash recovery, and webhook notifications — plus fixes for a lock held across allocation, non-ASCII dotenv values, and `evo grep` never actually calling ripgrep. [12 PRs](https://github.com/evo-hq/evo/pulls?q=is%3Apr+author%3ASrinivasan8888)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### AI / GenAI
